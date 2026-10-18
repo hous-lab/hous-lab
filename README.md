@@ -22,3 +22,9 @@ I work on building efficient AI systems, from model optimization and inference a
 Interested in the intersection of AI models, efficient computing, and real-world systems.
 
 Always happy to exchange ideas and collaborate on interesting engineering problems.
+
+### Links
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=jEkp1tUAAAAJ)
+
+[Technical Blog](https://hous-lab.github.io)
