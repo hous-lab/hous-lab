@@ -12,7 +12,8 @@ I work on building efficient AI systems, from model optimization and inference a
 - **Systems Engineering** — Performance profiling, runtime engineering, system integration
 
 ### Selected Projects
-- [Vad on Orin](https://github.com/hous-lab/vad-trt-edge) - vad end-to-end driving model deployment with Jetson Orin.
+- [SparseDriveV2 TensorRT on Jetson Orin](https://github.com/hous-lab/sparsedrive-trt-edge) - *SparseDrive v2* end-to-end driving model deployment with Jetson Orin.
+- [Vad TensorRT on Jetson Orin](https://github.com/hous-lab/vad-trt-edge) - vad end-to-end driving model deployment with Jetson Orin.
 - [SparseDriveV2 on SA8775P](https://github.com/hous-lab/sparsedrive2-sa8775p-qnn) — End-to-end driving model deployment with Qualcomm QNN/HTP.
 
 ### Tech Stack
