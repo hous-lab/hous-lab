@@ -17,10 +17,10 @@ My current focus is **Vision-Language-Action (VLA) models and embodied AI**, bui
 
 - **[π0.5 on Jetson Orin](https://github.com/hous-lab/pi05-orin-edge)** — Edge deployment and inference optimization for a vision-language-action model.
 - **[Qwen-Drive on Jetson Orin](https://github.com/hous-lab/qwen-drive-edge-orin)** — VLA deployment, TensorRT-Edge-LLM, custom kernels, and numerical validation.
-- **[Alpamayo on Jetson Orin](REPLACE_WITH_ALPAMAYO_REPO_URL)** — Deployment and optimization of a large-scale reasoning VLA for autonomous driving.
+- **[Alpamayo on Jetson Orin](https://github.com/hous-lab/alpamayo-trt-edge)** — Deployment and optimization of a large-scale reasoning VLA for autonomous driving.
 - **[PanSplat on TensorRT](https://github.com/hous-lab/pansplat-trt-edge-orin)** — TensorRT deployment of a panoramic 3D Gaussian splatting pipeline.
-- **[Orin–QNX Dual Runtime](REPLACE_WITH_ORIN_QNX_DUALRT_REPO_URL)** — Cross-platform runtime engineering and system integration.
-- **[Apollo E2E Closed-Loop](REPLACE_WITH_APOLLO_E2E_CLOSEDLOOP_REPO_URL)** — End-to-end autonomous driving and closed-loop evaluation.
+- **[Orin–QNX Dual Runtime](https://github.com/hous-lab/orin-qnx-dualrt)** — Cross-platform runtime engineering and system integration.
+- **[Apollo E2E Closed-Loop](https://github.com/hous-lab/apollo-e2e-closedloop)** — End-to-end autonomous driving and closed-loop evaluation.
 
 ### Tech Stack
 
